@@ -1,30 +1,46 @@
 # Hi, I'm Semyon 👋
 
-Aspiring Junior Data Analyst based in Spain with a background in hospitality operations and customer support.
+Aspiring Junior Machine Learning Engineer based in Spain with a background in customer support, business operations, and data analytics.
 
-I build portfolio projects using:
-- Python
-- SQL
-- Tableau
-- Machine Learning
-- Data Visualization
+I build end-to-end machine learning projects covering data preparation, feature engineering, model development, explainability, API deployment, and automation.
 
 ## Featured Projects
 
-### Job Market Analysis
-Analysis of remote work trends, salary estimation and hiring activity using Python, SQL and Tableau.
+### Real-Time Fraud Detection System
 
-### Hotel Revenue Analysis
-Revenue, cancellations and booking channel analysis with KPI reporting and ML cancellation prediction.
+End-to-end automated machine learning pipeline for credit card fraud detection using advanced feature engineering, model comparison, SHAP explainability, FastAPI, and Docker. Includes a business decision engine for risk scoring and action recommendations.
 
-### Customer Support Analytics
-Support ticket and agent performance analysis focused on operational KPIs and customer satisfaction.
+### Exoplanet Host Star Classification
+
+Machine learning system built using Gaia DR3 and NASA Exoplanet Archive data to predict whether a star is likely to host exoplanets. Includes custom feature engineering, model evaluation, explainability analysis, and API deployment.
+
+### Hotel Revenue Analytics
+
+Business analytics project focused on revenue performance, booking behavior, cancellation patterns, and KPI reporting using Python, SQL, Tableau, and predictive modeling.
 
 ## Skills
 
-- Python (pandas, NumPy, matplotlib, seaborn)
-- SQL & SQLite
-- Tableau
-- Scikit-learn
-- Excel
-- Git & GitHub
+### Machine Learning
+
+* Scikit-learn
+* XGBoost
+* LightGBM
+* Model Evaluation & Cross-Validation
+* Feature Engineering
+* SHAP Explainability
+
+### Data & Analytics
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL & SQLite
+* Tableau
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Preprocessing
+
+### Deployment & Tools
+
+* FastAPI
+* Docker
+* Git & GitHub
+* Jupyter Notebook
+* REST APIs
